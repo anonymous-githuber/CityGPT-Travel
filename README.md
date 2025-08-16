@@ -1,6 +1,6 @@
-# CityGPT-Travel: Benchmarking Knowledge-Enriched LLM Agents for Urban Travel Planning
+# CityGPT-Travel: Evaluating Knowledge-Enriched LLM Agents for Urban Travel Planning
 
-:triangular_flag_on_post: This is the repo of the paper summited to **WSDM 2026**.
+:triangular_flag_on_post: This is the repo of the paper summited to **WSDM 2026** (Submission 679).
 
 <p align="center">
   <img src="./fig/overview.png" width="600">
