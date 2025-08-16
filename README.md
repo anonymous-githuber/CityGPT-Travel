@@ -2,7 +2,9 @@
 
 :triangular_flag_on_post: This is the repo of the paper summited to **WSDM 2026**.
 
-<img src="./fig/overview.png" style="zoom:20%;" >
+<p align="center">
+  <img src="./fig/overview.png" width="600">
+</p>
 
 ## 🛠️ Requirements
 
